@@ -1,6 +1,8 @@
 # GOLANG WEBSOCKET WITH SVELTEKIT
 
-## Nugraha Agung Pratama
+## Nugraha Agung Pratama || TalentHub batch 11
+
+Code Repository: https://github.com/NugrahaAP/sveltekitgowebsocket
 
 ### FrontEnd
 
