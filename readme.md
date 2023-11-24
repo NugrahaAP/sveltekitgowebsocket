@@ -50,7 +50,7 @@ pass:  password1234
 - GET /health_check
 - POST /auth/login
 - POST /auth/register
-- POST /refresh
+- POST /auth/refresh
 - GET /backend/api/v1/rahasia
 - POST /backend/api/v1/message
 - DELETE /backend/api/v1/message
